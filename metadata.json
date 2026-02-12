@@ -1,0 +1,8 @@
+{
+  "name": "Ducky Voice for GitHub ",
+  "description": "An intelligent voice assistant themed after DuckDuckGo. Say 'Hey Ducky' to start.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
